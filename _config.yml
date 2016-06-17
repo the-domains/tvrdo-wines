@@ -1,14 +1,14 @@
-layout_spectrum: 0.9948302584234625
-typography_spectrum: 0.8638383641373366
+layout_spectrum: 0.3873988364357501
+typography_spectrum: 0.87623405829072
 color:
-  brandStrength: 0.1388009083457291
-  lightness: 0.692494626622647
-  saturation: 0.6261071274057031
-  rhythmicContrast: 0.7488691499456763
+  brandStrength: 0.3658481177408248
+  lightness: 0.42148806573823094
+  saturation: 0.35389171401038766
+  rhythmicContrast: 0.605468152789399
   brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: Tvrdoš Wines
